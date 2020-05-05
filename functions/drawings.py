@@ -4,6 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Function that shows and labels the edges and position.
 def show_weighted_graph(G):
     pos = nx.planar_layout(G)
     nx.draw(G, pos)
@@ -13,7 +14,7 @@ def show_weighted_graph(G):
                                  edge_labels = labels)
     plt.show()
    
-
+# Functon that draws the graph with its labels and edges.
 def draw_subtree(G, T):
     pos = nx.planar_layout(G)
     nx.draw_networkx(G, pos)
