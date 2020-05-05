@@ -1,1 +1,1 @@
-This was a group project at our university(UHD).We were instructed to build a package and implement Prim's Algorithim.This is a basic algorithim that could be updated with more functons or modules.We used Sypder to build this project.
+This was a python group project at our university(UHD).We were instructed to build a package and implement Prim's Algorithim.This is a basic algorithim that could be updated with more functons or modules.We used Sypder to build this project.
